@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url('../images/jathayu.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.nav-link{
+    color: white;
+}
+section{
+    padding: 5%;
+}
+#logo{
+    width: 100px;
+    height: 50px;
+}
+.loginform{
+    float: right;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 3%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    width: 35%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.row{
+    padding-top: 10px;
+}
+#signuplink{
+    color: rgb(255, 255, 255);
+}
